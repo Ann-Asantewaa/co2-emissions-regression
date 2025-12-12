@@ -2,7 +2,7 @@
 Regression analysis of vehicle CO₂ emissions using engine size and fuel features, including model evaluation metrics and visualizations.
 Summary / Description
 
-This project analyzes vehicle CO₂ emissions using regression techniques. The goal is to predict CO₂ emissions based on vehicle features such as engine size, fuel type, and cylinders. The notebook includes:
+This project analyzes vehicle CO₂ emissions using regression techniques. The goal is to predict CO₂ emissions based on vehicle features such as engine size. The notebook includes:
 
 Data exploration and visualization
 
